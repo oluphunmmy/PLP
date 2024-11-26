@@ -1,0 +1,6 @@
+http is an inbuilt package (has its limitatiosn) that does not need installation set up your project by entering npm init -y on the terminal. a new file will be created (package.json) which contains the information about the project
+our server oprates by taking a request and givingout a response
+how to setup a basic server using a node environment( as server is where the backend files/ backend logic resides)
+connecting to database
+how to interact with the database
+Express js(offers more functionalities and features than HTTP when interracting with server)
